@@ -89,7 +89,7 @@ protected:
 ////////////////////////////////
 // General ////////////////////
 //////////////////////////////
-
+public:
 	UFUNCTION(BlueprintCallable)
 	TArray<FAIPathNode> GetAllPathNodes() const
 	{
